@@ -134,5 +134,5 @@ pip install -r requirements.txt
 
 ## 📸 Example Output
 
-![Example Object Detection 1](data/cluster_plot.png)
+![Example Object Detection 1](data/output1.png)
 ![Example Object Detection 2](data/output2.png)
