@@ -134,4 +134,5 @@ pip install -r requirements.txt
 
 ## 📸 Example Output
 
-_See `outputs/` folder or use the scripts to generate new results!_
+!(output1.png)
+!(output2.png)
